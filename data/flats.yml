@@ -1,0 +1,35 @@
+ssaunier:
+  name: "Sebastien's home"
+  description: "Charming room in Montmartre"
+  city_name: "Paris, France"
+  city_slug: "paris"
+  wifi: false
+  rating: 4
+papillard:
+  name: "Boris' home"
+  description: Small flat in Tokyo
+  city_name: "Paris, France"
+  city_slug: "tokyo"
+  wifi: true
+  rating: 3
+monsieurpaillard:
+  name: Romain's home
+  description: Nice flat in Piccadilly
+  city_name: "London, UK"
+  city_slug: "london"
+  wifi: true
+  rating: 5
+monsieurpaillard3:
+  name: Leo's home
+  description: Great stay
+  city_name: "London, UK"
+  city_slug: "rome"
+  wifi: true
+  rating: 5
+monsieurpaillard2:
+  name: Julia's home
+  description: Beuatiful views
+  city_name: "Rio, BR"
+  city_slug: "rio"
+  wifi: true
+  rating: 5
